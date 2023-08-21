@@ -16,7 +16,7 @@ Deployed the IPL EDA project using Streamlit, providing an interactive and user-
 🔑 Key Takeaways 📚
 This project showcases the power of web scraping, data cleaning, visualization, and deployment using popular Python libraries. It enables efficient analysis and empowers IPL enthusiasts with valuable insights.
 
-Website link:https://iplanalysis.streamlit.app/
+Website link:https://ipl-project-website.streamlit.app/
 
 Dataset resource: I scraped the dataset from this website link:https://www.iplt20.com/matches/results/2008
 and Kaggle
